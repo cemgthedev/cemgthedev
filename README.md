@@ -1,4 +1,4 @@
-# Olá, sou Carlos Eduardo de Moura Gomes 👋
+# Olá, me chamo Carlos Eduardo de Moura Gomes 👋
 
 ## Status
 <div align="center">
@@ -22,6 +22,22 @@
   <img align="center" title="Node" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />   <img align="center" title="Git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" title="Docker" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" title="MySql" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
-                  
+                       
+</div>
+  
+## Bio
+<div>
+  <h3>Objetivos</h3>
+  <ul>
+    <li>Tornar-se inicialmente um Design Engineer com conhecimentos de Front End e UI/UX Design</li>
+    <li>Profissionalizar-se futuramente aprendendo Back End, tornando-se então, um desenvolvedor Full Stack</li>
+  </ul>
+  
+  <h3>Habilidades</h3>
+  <ul>
+    <li>Trabalho em Equipe</li>
+    <li>Aprendizado Rápido</li>
+    <li>Métodos Ágeis</li>
+    <li>Princípios de Programação</li>
+  </ul>
 </div>
