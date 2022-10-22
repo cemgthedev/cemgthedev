@@ -41,3 +41,5 @@
     <li>Princípios de Programação</li>
   </ul>
 </div>
+
+![snake gif](https://github.com/cemgthedev/cemgthedev/blob/output/github-contribution-grid-snake.svg)
