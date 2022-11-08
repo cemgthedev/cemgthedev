@@ -29,6 +29,13 @@
     <li>Tornar-se inicialmente um Design Engineer com conhecimentos de Front End e UI/UX Design</li>
     <li>Profissionalizar-se futuramente aprendendo Back End, tornando-se então, um desenvolvedor Full Stack</li>
   </ul>
+  <h3>Habilidades</h3>
+  <ul>
+    <li>Comunicação</li>
+    <li>Organização</li>
+    <li>Criatividade</li>
+    <li>Autodidatismo</li>
+  </ul>
 </div>
 
 ## Commits
