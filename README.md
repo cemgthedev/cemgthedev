@@ -28,8 +28,8 @@
 <div>
   <h3>Objetivos</h3>
   <ul>
-    <li>Tornar-se inicialmente um Design Engineer com conhecimentos de Front End e UI/UX Design</li>
-    <li>Profissionalizar-se futuramente aprendendo Back End, tornando-se então, um desenvolvedor Full Stack</li>
+    <li>Dominar inicialmente tecnologias de Front End e UI/UX Design</li>
+    <li>Aprender futuramente tecnologias de Back End</li>
   </ul>
   <h3>Habilidades</h3>
   <ul>
