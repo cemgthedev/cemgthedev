@@ -1,6 +1,6 @@
 # Olá, me chamo Carlos Eduardo de Moura Gomes 👋
 ## Sumário
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvo o front end de aplicação web e mobile tendo dominio de UI/UX Design na criação de protótipos, implementação e manutenção utilizando tecnologias como Figma, React, React Native, Tailwindcss, TypeScript e Jest. E prezo pelo código limpo através da aplicação dos conceitos SOLID e padronização com ferramentas como ESLint.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvo o front end de aplicações web e mobile tendo domínio de UI/UX Design na criação de protótipos, implementação e manutenção utilizando tecnologias como Figma, React, React Native, Tailwindcss, TypeScript e Jest. E prezo pelo código limpo através da aplicação dos conceitos SOLID e padronização com ferramentas como ESLint.</p>
 
 ## Status
 <div align="center">
