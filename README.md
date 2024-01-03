@@ -35,7 +35,7 @@
   <ul>
     <li>Dominar tecnologias de Front End e UI/UX Design na prototipagem, implementação e manutenção de aplicações web</li>
     <li>Dominar os conceitos de SOLID na construção de código limpo e padronizações por meio de ferramentas como ESLint</li>
-    <li>Dominar aplicação de testes automatizados no Front End por meio de ferramentas como Jest</li>
+    <li>Dominar aplicação de testes automatizados no Front End por meio de ferramentas como Jest e Testing Library</li>
   </ul>
   <h3>Habilidades</h3>
   <ul>
