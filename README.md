@@ -36,8 +36,8 @@
   <h3>Objetivos</h3>
   <ul>
     <li>Dominar tecnologias de Front End e UI/UX Design na prototipagem, implementação e manutenção de aplicações web</li>
-    <li>Dominar código limpo e padronizações por meio de ferramentas como ESLint</li>
     <li>Dominar tecnologias de Mobile na implementação e manutenção de aplicações mobile</li>
+    <li>Dominar código limpo e padronizações por meio de ferramentas como ESLint</li>
   </ul>
   <h3>Habilidades</h3>
   <ul>
