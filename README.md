@@ -11,7 +11,7 @@
 </div>
 
 ## Tecnologias em Front End Web
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" title="Figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
   <img align="center" title="HTML" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,30 +29,39 @@
 </div>
 
 ## Tecnologias em Front End Mobile
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" title="Figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
   <img align="center" title="Kotlin" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" title="Jet Pack Compose" alt="jetpackcompose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
   <img align="center" title="Firebase" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />      
   <img align="center" title="Git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+
+## Experiências
+<div style="display: inline_block">
+  <h3>🕒 2023 - Presente | Desenvolvedor Front End na Startup InovAssessoria</h3>
+  <ul>
+    <li>Desenvolvimento de interfaces web com tecnologias como Vite, React, TypeScript e Tailwindcss</li>
+    <li>Manutenções na estilização e responsividade</li>
+  </ul>
+  <h3>🕒 2024 - Presente | Desenvolvedor Mobile na Startup InovAssessoria</h3>
+  <ul>
+    <li>Desenvolvimento de aplicativos android com tecnologias como Kotlin, Jetpack Compose, Koin e Ktor</li>
+  </ul>
+</div>
   
 ## Bio
-<div>
-  <h3>Objetivos</h3>
+<div style="display: inline_block">
+  <h3>🎯 Objetivos</h3>
   <ul>
     <li>Dominar tecnologias de Front End e UI Design na prototipagem, implementação e manutenção de aplicações web</li>
     <li>Dominar tecnologias de Mobile na implementação e manutenção de aplicações mobile</li>
   </ul>
-  <h3>Habilidades</h3>
+  <h3>🛠️ Habilidades</h3>
   <ul>
     <li>Resolução de Problemas</li>
+    <li>Autodidatismo</li>
     <li>Comunicação</li>
     <li>Disciplina</li>
-    <li>Autodidatismo</li>
-    <li>Criatividade</li>
   </ul>
 </div>
-
-## Commits
-![snake gif](https://github.com/cemgthedev/cemgthedev/blob/output/github-contribution-grid-snake.svg)
