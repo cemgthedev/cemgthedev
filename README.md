@@ -65,3 +65,8 @@
     <li>Disciplina</li>
   </ul>
 </div>
+
+<div>
+  <p align="center">"O conforto é o pior vício."</p>
+  <p align="end">- Marco Aurélio</p>
+</div>
