@@ -10,7 +10,7 @@
   </a>
 </div>
 
-## Tecnologias em Front End Web
+## Tecnologias em Front End
 <div style="display: inline_block">
   <img align="center" title="Figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
   <img align="center" title="HTML" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +28,7 @@
   <img align="center" title="Git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-## Tecnologias em Front End Mobile
+## Tecnologias em Mobile
 <div style="display: inline_block">
   <img align="center" title="Figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
   <img align="center" title="Kotlin" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
