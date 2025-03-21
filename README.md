@@ -46,7 +46,7 @@
   </ul>
   <h3>🕒 2024 - Presente | Desenvolvedor Mobile na Startup InovAssessoria</h3>
   <ul>
-    <li>Desenvolvimento de aplicativos android com tecnologias como Kotlin, Jetpack Compose, Koin e Ktor</li>
+    <li>Desenvolvimento de aplicativos android com tecnologias como Kotlin, Jetpack Compose, Koin, Retrofit e Moshi</li>
   </ul>
 </div>
   
