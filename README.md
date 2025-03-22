@@ -5,8 +5,8 @@
 ## Status
 <div align="center">
   <a href="https://github.com/cemgthedev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cemgthedev&show_icons=true&icon_color=d8582c&border_color=ffffff&theme=codeSTACKr&include_all_commits=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemgthedev&layout=compact&langs_count=7&theme=codeSTACKr&border_color=ffffff"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cemgthedev&show_icons=true&show_border=true&theme=midnight-purple&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemgthedev&layout=compact&langs_count=7&theme=midnight-purple&show_border=true"/>
   </a>
 </div>
 
