@@ -31,10 +31,8 @@
 
 ## Stack Mobile
 <div style="display: inline_block">
-  <img align="center" title="Figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
-  <img align="center" title="Kotlin" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img align="center" title="Jetpack Compose" alt="jetpackcompose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
-  <img align="center" title="Ktor" alt="ktor" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" />
+  <img align="center" title="Figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />   
+  <img align="center" title="React Native" alt="reactnative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" title="GraphQL" alt="graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />        
   <img align="center" title="Firebase" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" />      
   <img align="center" title="Git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -49,7 +47,7 @@
   </ul>
   <h3>🕒 2024 - Presente | Desenvolvedor Mobile na Startup InovAssessoria</h3>
   <ul>
-    <li>Desenvolvimento de aplicativos android com tecnologias como Kotlin, Jetpack Compose, Koin, Retrofit e Moshi</li>
+    <li>Desenvolvimento de aplicativos android com tecnologias como Expo, React Native e StyleSheet</li>
   </ul>
 </div>
   
