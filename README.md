@@ -1,6 +1,6 @@
 # Olá, me chamo Carlos Eduardo de Moura Gomes 👋
 ## Sumário
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvo o Front End de aplicações web e mobile por meio de conhecimentos em UI Design e tecnologias como Figma, React, TypeScript, Kotlin e Jetpack Compose.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvo o Front End de aplicações web e mobile por meio de conhecimentos em UI Design e tecnologias como Figma, React, TypeScript, React Native e StyleSheet.</p>
 
 ## Status
 <div align="center">
@@ -34,7 +34,8 @@
   <img align="center" title="Figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />   
   <img align="center" title="React Native" alt="reactnative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" title="GraphQL" alt="graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />        
-  <img align="center" title="Firebase" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" />      
+  <img align="center" title="Firebase" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" /> 
+  <img align="center" title="ESLint" alt="eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
   <img align="center" title="Git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
