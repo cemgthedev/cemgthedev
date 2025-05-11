@@ -1,6 +1,6 @@
 # Olá, me chamo Carlos Eduardo de Moura Gomes 👋
 ## Sumário
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvo o Front End de aplicações web e mobile por meio de conhecimentos em UI Design e tecnologias como Figma, React, TypeScript, React Native e StyleSheet.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvedor de aplicações web e mobile com foco em UI Design e tecnologias como Figma, React, React Native e TypeScript.</p>
 
 ## Status
 <div align="center">
