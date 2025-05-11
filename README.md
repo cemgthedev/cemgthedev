@@ -43,12 +43,13 @@
 <div style="display: inline_block">
   <h3>🕒 2023 - Presente | Desenvolvedor Front End na Startup InovAssessoria</h3>
   <ul>
-    <li>Desenvolvimento de interfaces web com tecnologias como Vite, React, TypeScript e Tailwindcss</li>
-    <li>Manutenções para estilização, responsividade e redesigns</li>
+    <li>Construção de interfaces web responsivas com Vite, React, TypeScript e Tailwind CSS</li>
+    <li>Colaboração em equipe com Git, Conventional Commits e metodologias ágeis</li>
   </ul>
   <h3>🕒 2024 - Presente | Desenvolvedor Mobile na Startup InovAssessoria</h3>
   <ul>
-    <li>Desenvolvimento de aplicativos android com tecnologias como Expo, React Native e StyleSheet</li>
+    <li>Desenvolvimento de aplicações mobile com Expo, React Native e TypeScript</li>
+    <li>Participação ativa em entregas com Git, Conventional Commits e Scrum</li>
   </ul>
 </div>
   
