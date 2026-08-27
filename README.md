@@ -2,14 +2,6 @@
 ## Sumário
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvedor de aplicações web e mobile com foco em UI Design e tecnologias como Figma, React, React Native e TypeScript.</p>
 
-## Status
-<div align="center">
-  <a href="https://github.com/cemgthedev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cemgthedev&show_icons=true&icon_color=00ffff&title_color=00ffff&text_color=ffffff&bg_color=000000&show_border=true&include_all_commits=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemgthedev&layout=compact&langs_count=7&show_border=true&title_color=00ffff&text_color=ffffff&bg_color=000000"/>
-  </a>
-</div>
-
 ## Stack Front End
 <div style="display: inline_block">
   <img align="center" title="Figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
